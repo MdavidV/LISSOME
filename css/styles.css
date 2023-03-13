@@ -53,7 +53,7 @@ section{
 
 
 
-.navbar-light .navbar-nav .nav-link.active{
+.navbar-light .navbar-nav .nav-item.active a{
 
     color: #E93B81;
 }
